@@ -30,6 +30,6 @@ The demo sign-in values are defined in `lib/data.dart`. Use the onboarding and s
 
 `lib/data.dart` defines the supplied content and calculator models. `lib/state.dart` handles profiles and local persistence. `lib/screens/` contains the reader, authentication and learning screens. Font notices remain alongside the bundled fonts.
 
-## Prototype
+## Figma design
 
-Figma prototype link pending.
+[View the Figma design](https://www.figma.com/design/0Y3vUwvotn0gbYfrB63j6p/Akomacare).
